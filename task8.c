@@ -2,7 +2,6 @@
 
 int main(){
 	char str[10], after[10];
-	int i;
 	
 	printf("Enter character: ");
 	scanf("%[^A-Za-z]", str);
@@ -13,3 +12,4 @@ int main(){
 	
 	return 0;
 }
+
